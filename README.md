@@ -8,3 +8,8 @@ Techolympics Training
  echo "change 2" >> tmp.txt
  git add tmp.txt
  git commit -m "commit 2"
+ git commit -m "commit 3"
+ cat tmp.txt
+ git status
+ git log
+ git rebase -i HEAD~3
