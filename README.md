@@ -5,3 +5,6 @@ Techolympics Training
  echo "change 1" >> tmp.txt
  git add tmp.txt
  git commit -m "commit 1"
+ echo "change 2" >> tmp.txt
+ git add tmp.txt
+ git commit -m "commit 2"
