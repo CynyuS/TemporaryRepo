@@ -13,3 +13,7 @@ Techolympics Training
  git status
  git log
  git rebase -i HEAD~3
+ pick a81bb1 "commit 1"
+ squash 069a09b "commit 2"
+ squash 941e2d "commit 3"
+ 
